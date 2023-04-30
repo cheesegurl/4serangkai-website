@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benua tengah.</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href="">Benua Tengah</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#polyleia">Polyleia</a></li>
+                    <li><a href="#foxie">Foxie</a></li>
+                    <li><a href="#chillon">Chillon</a></li>
+                    <li><a href="#wartburg">Wartburg</a></li>
+                    <li><a href="" class="tbl-biru">Sign Up</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+    <div class="wrapper">
+        <!--untuk home-->
+        <section id="home">
+           <img src="https://i.pinimg.com/564x/7e/3a/67/7e3a676a082d906842d01dc1e4afc8e4.jpg"/>
+           <div class="kolom">
+                <p class="deskripsi">Benua Tengah</p>
+                <h2>Polyleia-Foxie-Chillon-Wartburg</h2>
+                <p><i>"Untuk saat ini kamu mengalami koma dengan teman yang lainnya, kamu bingung? Sekarang kamu tinggal di - Kingdom tepatnya di Benua Tengah yang penuh dengan kerajaan-kerajaan pangkat tinggi dan kamu -, selamat datang di dunia masa lalu"</i></p>
+                <p><a href="" class="tbl-pink">Learn more</a></p>
+           </div>
+        </section>
+
+        <!--untuk polyleia-->
+        <section id="polyleia">
+            <div class="kolom">
+                <p class="deskripsi">Salvie Kenneth,</p>
+                <h2>Princess of Polyleia</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit rem quia ipsam fuga similique ex consequuntur ducimus distinctio praesentium doloribus?</p>
+                p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit rem quia ipsam fuga similique ex consequuntur ducimus distinctio praesentium doloribus?</p>
+                <p><a href="" class="tbl-biru">Learn more</a></p>
+            </div>
+            <img src="C:\Users\ASUS\Downloads\do not open\12a7afe87e215d8939337aadcccd7934.jpg"/>
+        </section>
+
+    <div class="tengah">
+        <div class="kolom">
+            <p class="deskripsi">The Family of</p>
+            <h2>Kenneth</h2>
+        </div>
+
+        <div class="tutor-list">
+            <div class="kartu-tutor">
+                <img src="C:\Users\ASUS\Pictures\Screenshots\Screenshot (697).png"/>
+                <p>Shadwell Kenneth</p>
+            </div>
+            <div class="kartu-tutor">
+                <img src="C:\Users\ASUS\Downloads\do not open\c4166c38831108eee76b6eee306362ed.jpg"/>
+                <p>Caitlin Kenneth</p>
+            </div>
+            <div class="kartu-tutor">
+                <img src="https://i.pinimg.com/564x/0a/34/98/0a349817da7ad071f563268561e42d49.jpg"/>
+                <p>Chelsea Kenneth</p>
+            </div>
+        </div>
+
+        <!--untuk foxie-->
+
+        <div class="wrapper">
+            <section id="foxie">
+                <div class="kolom">
+                    <p class="deskripsi">Tiane Ethelbert,</p>
+                    <h2>Princess of Foxie</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit rem quia ipsam fuga similique ex consequuntur ducimus distinctio praesentium doloribus?</p>
+                    p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit rem quia ipsam fuga similique ex consequuntur ducimus distinctio praesentium doloribus?</p>
+                    <p><a href="" class="tbl-biru">Learn more</a></p>
+                </div>
+                <img src="C:\Users\ASUS\Downloads\do not open\kkkk.jpg"/>
+            </section>
+        </div>
+        <section id="foxie">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">The Family of</p>
+                    <h2>Ethelbert</h2>
+                </div>
+
+                <div class="tutor-list">
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\12a7afe87e215d8939337aadcccd7934.jpg"/>
+                        <p>Tolbe Ethelbert</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\e244d878aeaafea6e96424e4ae8e1acd.jpg"/>
+                        <p>Eltien Ethelbert</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\Screenshot (701).png"/>
+                        <p>Elena Ethelbert</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\Screenshot (712).png"/>
+                        <p>Selen Ethelbert</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\Screenshot (702).png"/>
+                        <p>Thomas Ethelbert</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--untuk chillon-->
+        <div class="wrapper">
+            <section id="chillon">
+                <div class="kolom">
+                    <p class="deskripsi"> Neavy Iverson,</p>
+                    <h2>Princess of Chillon</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit rem quia ipsam fuga similique ex consequuntur ducimus distinctio praesentium doloribus?</p>
+                    p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit rem quia ipsam fuga similique ex consequuntur ducimus distinctio praesentium doloribus?</p>
+                    <p><a href="" class="tbl-biru">Learn more</a></p>
+                </div>
+                <img src="C:\Users\ASUS\Downloads\do not open\gg.jpg"/>
+            </section>
+        </div>
+
+         <section id="chillon">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">The Family of</p>
+                    <h2>Iverson</h2>
+                </div>
+
+                <div class="tutor-list">
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\Screenshot (706).png"/>
+                        <p>Merrick Iverson</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\Screenshot (707).png"/>
+                        <p>Rosanath Iverson</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\Screenshot (708).png"/>
+                        <p>Samantha Iverson</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\Screenshot (709).png"/>
+                        <p>Roxana Iverson</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\Screenshot (710).png"/>
+                        <p>Mike Iverson</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\Screenshot (711).png"/>
+                        <p>Catherine Iverson</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+        <!--untuk wartburg-->
+        <div class="wrapper">
+            <section id="wartburg">
+                <div class="kolom">
+                    <p class="deskripsi"> Athia Bainbridge,</p>
+                    <h2>Princess of Wartburg</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit rem quia ipsam fuga similique ex consequuntur ducimus distinctio praesentium doloribus?</p>
+                    p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit rem quia ipsam fuga similique ex consequuntur ducimus distinctio praesentium doloribus?</p>
+                    <p><a href="" class="tbl-biru">Learn more</a></p>
+                </div>
+                <img src="C:\Users\ASUS\Downloads\do not open\hhhhh.jpg"/>
+            </section>
+        </div>
+
+         <section id="chillon">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">The Family of</p>
+                    <h2>Bainbridge</h2>
+                </div>
+
+                <div class="tutor-list">
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\Screenshot (703).png"/>
+                        <p>Norward Bainbridge</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\Screenshot (707).png"/>
+                        <p>Ibunda</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\Screenshot (704).png"/>
+                        <p>Mark Bainbridge</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="C:\Users\ASUS\Downloads\do not open\Screenshot (705).png"/>
+                        <p>Oliver Bainbridgr</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        </div>
+
+
+    </div>
+
+    <div id="copyright">
+        <div class="wrapper">
+            &copy; 2022. <b>Benua Tengah</b> All Right Reserved. 
+        </div>
+    </div>
+</body>
+</html>
